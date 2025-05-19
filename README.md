@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Little Lemon - Reustorant & Booking
 
 ## Table of Content
@@ -134,3 +135,6 @@ In this project, from the beginning with figma wireframe design and figma UI des
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+=======
+# CapstoneProject
+>>>>>>> ed884fcf8246e946d420da33b5e1f260e29b8cc6
